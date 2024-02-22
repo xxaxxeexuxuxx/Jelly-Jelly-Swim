@@ -1,2 +1,2 @@
 # Jelly-Jelly-Swim
-# this is my term project for the DS App development class
+# This is my term project using the MIT App developer for the App development class
